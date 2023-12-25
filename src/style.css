@@ -15,7 +15,7 @@ body {
 }
 
 .bg {
-  background: #9b3636;
+  background: transparent;
   position: fixed;
   top: 0;
   right: 0;
